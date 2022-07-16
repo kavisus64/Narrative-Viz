@@ -1,4 +1,4 @@
-Country name,Regional indicator,Happiness_score,GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Generosity,Perceptions_of_corruption
+Country_name,Regional_indicator,Happiness_score,GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Generosity,Perceptions_of_corruption
 Finland,Western Europe,7.842,10.775,0.954,72.000,0.949,-0.098,0.186
 Denmark,Western Europe,7.620,10.933,0.954,72.700,0.946,0.030,0.179
 Switzerland,Western Europe,7.571,11.117,0.942,74.400,0.919,0.025,0.292
